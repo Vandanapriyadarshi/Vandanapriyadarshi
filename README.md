@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vandana kumari
-- 👀 I’m interested in software developing 
+- 👀 I’m interested in data d=science 
 - 🌱 I’m currently learning computer science and engineering
-- 💞️ I’m looking to collaborate on software devloping organization
+- 💞️ I’m looking to collaborate with data science team
 - 📫 How to reach me ...
 
 <!---
